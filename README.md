@@ -6,7 +6,7 @@
 </p>
 
 ## MVVM
-mvvm architecture
- -> data layer
+mvvm architecture /n
+ -> data layer /n
  -> domain layer
  -> presentation layer
