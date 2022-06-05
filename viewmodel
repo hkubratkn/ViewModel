@@ -1,0 +1,4 @@
+@Composable
+fun TopLevel( model : MyViewModel = MyViewModel() ){
+  var customerName : String by model.customerName.observeAsState("")
+}
